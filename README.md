@@ -9,3 +9,4 @@ Certifications successfully obtained:
 4) Ultimate C++ Part 2 Intermediate - codewithmosh.com
 5) Become Linear Algebra Master - udemy.com 
 6) Statistics for Data Science and Business Analytics - udemy.com
+7) Virtual Internship in Data Science - mindler 
